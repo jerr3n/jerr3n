@@ -1,5 +1,5 @@
 ### Hello!
-
+My profile picture is not my mugshot, it is my passport photo.
 ---
 <p align="center">
   <a href="https://skillicons.dev">
