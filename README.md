@@ -1,7 +1,3 @@
+[![My Skills](https://skillicons.dev/icons?i=js,astro,svelte,react,go,py)](https://skillicons.dev)
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,js,lua,nuxtjs,nodejs,ps,py,git,rust,tailwind,vscode,vue" />
-  </a>
-</p>
+if i've ever told you i know what i'm doing i was probably lying
