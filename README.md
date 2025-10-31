@@ -5,5 +5,6 @@ if i've ever told you i know what i'm doing i was probably lying
 somewhat data analyst and reverse engineer
 
 i like to code
+
 ---
 [say hi](mailto:contactAlfa@jerren.xyz)
